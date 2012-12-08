@@ -16,3 +16,6 @@
 *.out
 *.app
 piGpioMeasure
+
+# Database
+*.db
